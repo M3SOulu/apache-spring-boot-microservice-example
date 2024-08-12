@@ -42,7 +42,7 @@
           <artifactId>java-spring-compiletime</artifactId>
           <version>2.5.0</version>
           <configuration>
-              <key>NTBjODdjZDQtOTVkOC00N2YxLTliMTQtNzFmOGM5NmYzZTkxOmFnUzFUY0UmI3g0dSw3OH0=</key>
+              <key>${cma_key}</key>
               <multiModuleComponentName>cart_service</multiModuleComponentName>
               <host>http://localhost:8000</host>
           </configuration>
